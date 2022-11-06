@@ -1,18 +1,14 @@
 # Zego Express Example Web
 
-This is Express Example (Sample topic Demo) Web repositories
+Visit [Zego Express Documentation](https://docs.zegocloud.com/article/9017) for more insights.
 
-## Preparation before development
- 
-  1. Jquery.i18n is used in the project for internationalization, and it is necessary to simulate the server environment to read the configuration file. You can use a vscode plug-in Live Server to simulate. 
-  
-  Check out this [article](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) to learn how to use
+### prerequisities
 
-  2. Need to fill in appID and Server and tokenUrl in `/src/keyCenter.js `
+1. Get appID, Server URL and token from [ZEGOCLOUD Admin Console](https://console.zegocloud.com/).
+
 
 ## Directory structure diagram
 
-### Coding
 
 ```tree
 express-demo-web
